@@ -1,0 +1,488 @@
+{
+    "dbo:abstract": "\u201c I have established a school at the north end of Troy, in Rensselaer county, in the building usually called the Old Bank Place, for the purpose of instructing persons, who may choose to apply themselves, in the application of science to the common purposes of life...\u201d ~ Stephen van Rensselaer of Albany to Samuel Blatchford of Lansingburgh. Rensselaer Polytechnic Institute (/r\u025bns\u0259\u02c8l\u026a\u0259r/), or RPI, is a private research university located in Troy, New York, with two additional campuses in Hartford and Groton, Connecticut. It was founded in 1824 by Stephen van Rensselaer and Amos Eaton for the \"application of science to the common purposes of life\" and is described as the oldest technological university in the English-speaking world. Built on a hillside, RPI's 265-acre (107 ha) campus overlooks the city of Troy and the Hudson River and is a blend of traditional and modern architecture. The institute operates an on\u2011campus business incubator and the 1,250-acre (510 ha) Rensselaer Technology Park. Numerous American colleges or departments of applied sciences were modeled after Rensselaer. The university is one among a small group of polytechnic universities in the United States which tend to be primarily devoted to the instruction of technical arts and applied sciences. Rensselaer is organized into six main schools within which there are thirty-seven departments: the School of Architecture; School of Engineering; School of Humanities, Arts, and Social Sciences; School of Information Technology and Web Science; School of Science; and the Lally School of Management & Technology. The university offers around one hundred and forty degree programs in sixty fields, leading to bachelor's, master's, and doctorate degrees.",
+    "dbo:affiliation": [
+        "dbr:National_Association_of_Independent_Colleges_and_Universities",
+        "dbr:Association_of_Independent_Technological_Universities"
+    ],
+    "dbo:athletics": [
+        "dbr:National_Collegiate_Athletic_Association",
+        "dbr:NCAA_Division_III",
+        "dbr:NCAA_Division_I"
+    ],
+    "dbo:campus": [
+        "dbr:Suburban_area"
+    ],
+    "dbo:city": [
+        "dbr:Troy,_New_York"
+    ],
+    "dbo:endowment": [
+        "6.765E8"
+    ],
+    "dbo:formerName": [
+        "Rensselaer Institute (en)",
+        "Rensselaer School (en)"
+    ],
+    "dbo:mascot": [
+        "Puckman",
+        "The Redhawk"
+    ],
+    "dbo:motto": [
+        "Knowledge and Thoroughness"
+    ],
+    "dbo:numberOfPostgraduateStudents": [
+        1204
+    ],
+    "dbo:numberOfStudents": [
+        7028
+    ],
+    "dbo:numberOfUndergraduateStudents": [
+        5557
+    ],
+    "dbo:officialSchoolColour": [
+        "Cherry and white"
+    ],
+    "dbo:president": [
+        "dbr:Shirley_Ann_Jackson"
+    ],
+    "dbo:state": [
+        "dbr:New_York_(state)"
+    ],
+    "dbo:thumbnail": [
+        "wiki-commons:Special:FilePath/Purple_pog.svg?width=300"
+    ],
+    "dbo:type": [
+        "dbr:Private_university"
+    ],
+    "dbo:wikiPageExternalLink": [
+        "http://www.rpi.edu/",
+        "http://www.lib.rpi.edu/dept/library/html/Archives/e-collections/Nason,HB_1887/Part_3_bio_record_rens_officers_and_grads.pdf",
+        "http://www.rpiathletics.com/",
+        "http://www.lib.rpi.edu/archives/e-collections/Baker,RP_1924/part1_a_chap_American_ed.pdf",
+        "http://www.lib.rpi.edu/archives/e-collections/Greene,BF_1855/Part%201_Rennsselaer_poly.pdf",
+        "http://www.lib.rpi.edu/archives/e-collections/Rezneck,S_1968/Part%201_edu_technological-8.pdf",
+        "http://www.lib.rpi.edu/archives/e-collections/Ricketts,PC_1934/Part%201_history_renss.pdf"
+    ],
+    "dbo:wikiPageID": [
+        194026
+    ],
+    "dbo:wikiPageRevisionID": [
+        741298437
+    ],
+    "dbp:academicStaff": [
+        440
+    ],
+    "dbp:align": [
+        "right"
+    ],
+    "dbp:arwuN": [
+        103
+    ],
+    "dbp:arwuW": [
+        301
+    ],
+    "dbp:bgcolor": [
+        "AntiqueWhite"
+    ],
+    "dbp:border": [
+        2
+    ],
+    "dbp:caption": [
+        "Location of the Rensselaer Polytechnic Institute in Troy, New York."
+    ],
+    "dbp:country": [
+        "U.S."
+    ],
+    "dbp:float": [
+        "right"
+    ],
+    "dbp:font": [
+        "Times"
+    ],
+    "dbp:forbes": [
+        135
+    ],
+    "dbp:imageName": [
+        "Rensselaer Polytechnic Institute coat of arms.svg"
+    ],
+    "dbp:imageSize": [
+        150
+    ],
+    "dbp:logo": [
+        "dbr:File:RPI_Logo_Small.svg"
+    ],
+    "dbp:provost": [
+        "Prabhat Hajela"
+    ],
+    "dbp:qsW": [
+        353
+    ],
+    "dbp:quote": [
+        "\u201cI have established a school at the north end of Troy, in Rensselaer county, in the building usually called the Old Bank Place, for the purpose of instructing persons, who may choose to apply themselves, in the application of science to the common purposes of life...\u201d"
+    ],
+    "dbp:salign": [
+        "right"
+    ],
+    "dbp:source": [
+        "~ Stephen van Rensselaer of Albany to Samuel Blatchford of Lansingburgh."
+    ],
+    "dbp:thesW": [
+        181
+    ],
+    "dbp:titlestyle": [
+        "background: #E2231B; color:white; border: 2px solid #222222"
+    ],
+    "dbp:usnwrNu": [
+        39
+    ],
+    "dbp:usnwrW": [
+        379
+    ],
+    "dbp:wamoNu": [
+        66
+    ],
+    "dbp:width": [
+        22,
+        252
+    ],
+    "dbp:wordnet_type": [
+        "http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2"
+    ],
+    "dct:subject": [
+        "dbc:1824_establishments_in_New_York",
+        "dbc:Educational_institutions_established_in_1824",
+        "dbc:Education_in_New_York's_Capital_District",
+        "dbc:Schools_in_Rensselaer_County,_New_York",
+        "dbc:Schools_in_Troy,_New_York",
+        "dbc:Visitor_attractions_in_Rensselaer_County,_New_York",
+        "dbc:Technological_universities_in_the_United_States",
+        "dbc:Universities_and_colleges_in_New_York",
+        "dbc:V-12_Navy_College_Training_Program",
+        "dbc:Engineering_universities_and_colleges_in_New_York",
+        "dbc:Rensselaer_Polytechnic_Institute"
+    ],
+    "http://purl.org/linguistics/gold/hypernym": [
+        "dbr:University"
+    ],
+    "georss:point": [
+        "42.73 -73.6775"
+    ],
+    "rdf:type": [
+        "owl:Thing",
+        "dul:Agent",
+        "dul:SocialPerson",
+        "wikidata:Q24229398",
+        "wikidata:Q3918",
+        "wikidata:Q43229",
+        "dbo:Agent",
+        "dbo:EducationalInstitution",
+        "dbo:Organisation",
+        "dbo:University",
+        "geo:SpatialThing",
+        "schema:CollegeOrUniversity",
+        "schema:EducationalOrganization",
+        "schema:Organization",
+        "yago:WikicatTechnicalUniversitiesAndColleges",
+        "yago:Abstraction100002137",
+        "yago:EducationalInstitution108276342",
+        "yago:Group100031264",
+        "yago:Institution108053576",
+        "yago:Organization108008335",
+        "yago:SocialGroup107950920",
+        "yago:University108286569",
+        "yago:YagoLegalActor",
+        "yago:YagoLegalActorGeo",
+        "yago:YagoPermanentlyLocatedEntity",
+        "yago:WikicatEducationalInstitutionsEstablishedIn1824",
+        "yago:WikicatEngineeringUniversitiesAndCollegesInNewYork",
+        "yago:WikicatUniversitiesAndCollegesInNewYork",
+        "yago:WikicatPrivateUniversitiesAndCollegesInTheUnitedStates"
+    ],
+    "rdfs:comment": "\u201c I have established a school at the north end of Troy, in Rensselaer county, in the building usually called the Old Bank Place, for the purpose of instructing persons, who may choose to apply themselves, in the application of science to the common purposes of life...\u201d ~ Stephen van Rensselaer of Albany to Samuel Blatchford of Lansingburgh.",
+    "rdfs:label": "Rensselaer Polytechnic Institute",
+    "rdfs:seeAlso": [
+        "dbr:Rensselaer_Polytechnic_Institute_people",
+        "dbr:Houston_Field_House"
+    ],
+    "owl:sameAs": [
+        "dbpedia-cs:Rensselaer Polytechnic Institute",
+        "dbpedia-de:Rensselaer Polytechnic Institute",
+        "dbpedia-es:Rensselaer Polytechnic Institute",
+        "dbpedia-fr:Rensselaer Polytechnic Institute",
+        "dbpedia-it:Rensselaer Polytechnic Institute",
+        "dbpedia-ja:Rensselaer Polytechnic Institute",
+        "dbpedia-ko:Rensselaer Polytechnic Institute",
+        "dbpedia-nl:Rensselaer Polytechnic Institute",
+        "dbpedia-pt:Rensselaer Polytechnic Institute",
+        "dbpedia-wikidata:Rensselaer Polytechnic Institute",
+        "wikidata:Rensselaer Polytechnic Institute",
+        "freebase:Rensselaer Polytechnic Institute",
+        "nyt:Rensselaer Polytechnic Institute",
+        "geodata:Rensselaer Polytechnic Institute",
+        "http://sw.cyc.com/concept/Mx4rvWEs2ZwpEbGdrcN5Y29ycA",
+        "yago-res:Rensselaer Polytechnic Institute"
+    ],
+    "geo:geometry": [
+        "POINT(-73.67749786377 42.729999542236)"
+    ],
+    "geo:lat": [
+        42.73
+    ],
+    "geo:long": [
+        -73.677498
+    ],
+    "prov:wasDerivedFrom": [
+        "wikipedia-en:Rensselaer_Polytechnic_Institute?oldid=741298437"
+    ],
+    "foaf:depiction": [
+        "wiki-commons:Special:FilePath/Purple_pog.svg"
+    ],
+    "foaf:homepage": [
+        "http://www.rpi.edu/"
+    ],
+    "foaf:isPrimaryTopicOf": [
+        "wikipedia-en:Rensselaer_Polytechnic_Institute"
+    ],
+    "foaf:name": [
+        "Rensselaer Polytechnic Institute (en)"
+    ],
+    "dbo:almaMater": [
+        "dbr:Sheldon_Weinbaum",
+        "dbr:Bobby_Farrelly",
+        "dbr:Richard_Linn",
+        "dbr:Wengyik_Yeong",
+        "dbr:Naeem_M._Abdurrahman",
+        "dbr:Carlos_M._Cardoso",
+        "dbr:De_Volson_Wood",
+        "dbr:Jesse_Schell",
+        "dbr:David_Adler_(physicist)",
+        "dbr:Nancy_Deloye_Fitzroy",
+        "dbr:Ivar_Giaever",
+        "dbr:Sheldon_Roberts",
+        "dbr:Chris_Wysopal",
+        "dbr:Robert_H._Cushman",
+        "dbr:Stephen_Kowalczykowski",
+        "dbr:Deborah_Frank_Lockhart",
+        "dbr:Kathryn_Zoon",
+        "dbr:Phil_Agcaoili",
+        "dbr:Boryana_Rossa",
+        "dbr:Dennis_Tito",
+        "dbr:James_Cantor",
+        "dbr:Richard_Levine",
+        "dbr:George_Low",
+        "dbr:W._Aubrey_Thomas",
+        "dbr:Mario_Rivas",
+        "dbr:Ferran_Soriano",
+        "dbr:Marcian_Hoff",
+        "dbr:Bertram_Raphael",
+        "dbr:Joe_Howard,_Jr.",
+        "dbr:Coleman_Dupont_Donaldson",
+        "dbr:Howard_Wainer",
+        "dbr:Heidi_Jo_Newberg",
+        "dbr:Jack_Swigert",
+        "dbr:Marshall_Brain",
+        "dbr:Ray_Tomlinson",
+        "dbr:Allen_B._DuMont",
+        "dbr:Adrian_Scott_(entrepreneur)",
+        "dbr:Ralph_Leroy_Nafziger",
+        "dbr:Andrew_Sears",
+        "dbr:Don_L._Anderson",
+        "dbr:Robert_Kennicutt",
+        "dbr:Arthur_J._Gajarsa",
+        "dbr:Curtis_Priem",
+        "dbr:Truman_H._Aldrich",
+        "dbr:Hermann_A._Haus",
+        "dbr:Peter_E._Hart",
+        "dbr:Ben_Bederson",
+        "dbr:Joan_T._Schmelz",
+        "dbr:Keith_Millis",
+        "dbr:Marlan_Scully",
+        "dbr:Gary_Burrell",
+        "dbr:John_M._Riebe",
+        "dbr:Van_C._Mow",
+        "dbr:Myles_Brand",
+        "dbr:Charles_Lawrence_(mathematician)",
+        "dbr:Claude_Lajeunesse",
+        "dbr:Henry_Augustus_Rowland",
+        "dbr:John_Olver",
+        "dbr:Ansar_Pervaiz",
+        "dbr:Nariman_Farvardin",
+        "dbr:Asa_Fitch",
+        "dbr:Houman_Younessi",
+        "dbr:Michael_D._West",
+        "dbr:George_Bradford_Brainerd",
+        "dbr:John_D._Boice,_Jr.",
+        "dbr:Kevin_Burke_(CEO)",
+        "dbr:Bert_Sutherland",
+        "dbr:Mark_T._Maybury",
+        "dbr:Ed_Woll",
+        "dbr:Tom_Baruch",
+        "dbr:Keith_Raniere",
+        "dbr:William_A._Wallace_(organizational_theorist)",
+        "dbr:Mark_S_Gordon",
+        "dbr:Stephen_J._Lukasik"
+    ],
+    "dbo:award": [
+        "dbr:Peter_Bohlin"
+    ],
+    "dbo:education": [
+        "dbr:Theodore_Judah",
+        "dbr:Zeke_Zechella",
+        "dbr:Jeffrey_Gural",
+        "dbr:David_Polak",
+        "dbr:Edgar_Cortright",
+        "dbr:George_Washington_Gale_Ferris_Jr.",
+        "dbr:James_J._McGovern",
+        "dbr:Joseph_Gerber",
+        "dbr:L._Stephen_Coles",
+        "dbr:Debbie_Holmes",
+        "dbr:Jon_Hall_(programmer)",
+        "dbr:Roy_G._Finch"
+    ],
+    "dbo:employer": [
+        "dbr:Boles\u0142aw_Szyma\u0144ski",
+        "dbr:Paulo_Pinheiro",
+        "dbr:Amadeus_William_Grabau",
+        "dbr:Deborah_McGuinness"
+    ],
+    "dbo:governingBody": [
+        "dbr:Winslow_Chemical_Laboratory",
+        "dbr:West_Hall_(Rensselaer_Polytechnic_Institute)",
+        "dbr:Proctor's_Theater_(Troy,_New_York)",
+        "dbr:DeFreest_Homestead"
+    ],
+    "dbo:manufacturer": [
+        "dbr:Rensselaer_RP-1",
+        "dbr:Rensselaer_RP-2",
+        "dbr:Rensselaer_RP-3"
+    ],
+    "dbo:occupation": [
+        "dbr:Sorab_K._Ghandhi",
+        "dbr:Langdon_Winner"
+    ],
+    "dbo:owner": [
+        "dbr:Houston_Field_House",
+        "dbr:WRPI"
+    ],
+    "dbo:owningCompany": [
+        "dbr:RPI_TV"
+    ],
+    "dbo:team": [
+        "dbr:Nick_Bochette",
+        "dbr:Nick_Bochette__1"
+    ],
+    "dbo:training": [
+        "dbr:Yael_Kanarek"
+    ],
+    "dbo:wikiPageDisambiguates": [
+        "dbr:RPI",
+        "dbr:Rensselaer"
+    ],
+    "dbo:wikiPageRedirects": [
+        "dbr:Rensselaer_Institute",
+        "dbr:Rensselaer_Plan",
+        "dbr:Rensselaer_polytechnic",
+        "dbr:Radical_Innovation_Project_at_Rensselaer_Polytechnic_Institute",
+        "dbr:Rennselaer_Polytechnic_Institute",
+        "dbr:Rensselaer_Polytechnic",
+        "dbr:The_Ratio",
+        "dbr:RPI_Engineers",
+        "dbr:Future_Chips_Constellation",
+        "dbr:Rensselaer_Engineers",
+        "dbr:Rensselaer_Poly_Engineers",
+        "dbr:RPI_Engineers_football",
+        "dbr:Rpi.edu"
+    ],
+    "dbp:almaMater": [
+        "dbr:Lou_Jones_(photographer)",
+        "dbr:Robert_J._Dennis",
+        "dbr:Peter_van_Inwagen",
+        "dbr:Steven_Ehrlich",
+        "dbr:John_J._Albright",
+        "dbr:Sanford_Lockwood_Cluett",
+        "dbr:Don_Carlos_Young",
+        "dbr:John_Inglis_(American_football)",
+        "dbr:Edward_C._Harwood"
+    ],
+    "dbp:birthplace": [
+        "dbr:Rensselaer_Society_of_Engineers",
+        "dbr:Theta_Xi",
+        "dbr:Phi_Iota_Alpha"
+    ],
+    "dbp:college": [
+        "dbr:Mike_Hermann",
+        "dbr:Andrew_Franks"
+    ],
+    "dbp:developer": [
+        "dbr:MilkyWay@home"
+    ],
+    "dbp:institution": [
+        "dbr:Robert_J._Linhardt",
+        "dbr:Jonathan_Dordick"
+    ],
+    "dbp:name": [
+        "dbr:Rube_Bjorkman",
+        "dbr:Tim_Landis"
+    ],
+    "dbp:opponent": [
+        "dbr:1970\u201371_Georgetown_Hoyas_men's_basketball_team",
+        "dbr:1950\u201351_Connecticut_Huskies_men's_basketball_team",
+        "dbr:1952\u201353_Connecticut_Huskies_men's_basketball_team",
+        "dbr:2015_WPI_Engineers_football_team",
+        "dbr:1992_WPI_Engineers_football_team",
+        "dbr:2016_WPI_Engineers_football_team"
+    ],
+    "dbp:organization": [
+        "dbr:Hirsch_Observatory"
+    ],
+    "dbp:pagfreevalue": [
+        "dbr:WPI_Engineers_football"
+    ],
+    "dbp:rd1Team": [
+        "dbr:1969_NCAA_Men's_Soccer_Championship"
+    ],
+    "dbp:school": [
+        "dbr:List_of_Lambda_Chi_Alpha_chapters",
+        "dbr:The_Rensselaer_Polytechnic",
+        "dbr:List_of_Alpha_Epsilon_Pi_chapters",
+        "dbr:List_of_Phi_Sigma_Kappa_chapters",
+        "dbr:List_of_Zeta_Psi_chapters",
+        "dbr:List_of_Kappa_Alpha_Psi_chapters",
+        "dbr:List_of_Alpha_Tau_Omega_chapters"
+    ],
+    "dbp:title": [
+        "dbr:Rube_Bjorkman",
+        "dbr:George_Low"
+    ],
+    "dbp:workInstitution": [
+        "dbr:James_D._Meindl",
+        "dbr:Francine_Berman",
+        "dbr:Houman_Younessi",
+        "dbr:G._P._\"Bud\"_Peterson"
+    ],
+    "dbp:workInstitutions": [
+        "dbr:Jon_David_Erickson",
+        "dbr:Ron_Eglash",
+        "dbr:Julian_Cole"
+    ],
+    "dbp:workplaces": [
+        "dbr:Laurie_Leshin",
+        "dbr:Robert_Resnick",
+        "dbr:Lee_Segel",
+        "dbr:Carlton_E._Lemke",
+        "dbr:Michael_Sadowsky",
+        "dbr:Kang_G._Shin",
+        "dbr:Edith_Hirsch_Luchins",
+        "dbr:X._George_Xu",
+        "dbr:Heidi_Jo_Newberg",
+        "dbr:Charles_Anthony_Goessmann",
+        "dbr:Robert_H._Wentorf,_Jr.",
+        "dbr:Henry_Augustus_Rowland",
+        "dbr:Peter_Fox_(professor)",
+        "dbr:Michael_James_Gaffey",
+        "dbr:James_Hendler",
+        "dbr:William_A._Wallace_(organizational_theorist)"
+    ],
+    "foaf:primaryTopic": [
+        "wikipedia-en:Rensselaer_Polytechnic_Institute"
+    ]
+}

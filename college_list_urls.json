@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Boston University",
+        "url": "http://dbpedia.org/page/Boston_University"
+    },
+    {
+        "name": "University of Michigan",
+        "url": "http://dbpedia.org/page/University_of_Michigan"
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "url": "http://dbpedia.org/page/Carnegie_Mellon_University"
+    },
+    {
+        "name": "Massachusetts Institute of Technology",
+        "url": "http://dbpedia.org/page/Massachusetts_Institute_of_Technology"
+    },
+    {
+        "name": "Columbia University",
+        "url": "http://dbpedia.org/page/Columbia_University"
+    },
+    {
+        "name": "Princeton University",
+        "url": "http://dbpedia.org/page/Princeton_University"
+    },
+    {
+        "name": "Brown University",
+        "url": "http://dbpedia.org/page/Brown_University"
+    },
+    {
+        "name": "Cornell University",
+        "url": "http://dbpedia.org/page/Cornell_University"
+    },
+    {
+        "name": "Stanford University",
+        "url": "http://dbpedia.org/page/Stanford_University"
+    },
+    {
+        "name": "Duke University",
+        "url": "http://dbpedia.org/page/Duke_University"
+    },
+    {
+        "name": "University of Florida",
+        "url": "http://dbpedia.org/page/University_of_Florida"
+    },
+    {
+        "name": "Yale University",
+        "url": "http://dbpedia.org/page/Yale_University"
+    },
+    {
+        "name": "Rutgers University",
+        "url": "http://dbpedia.org/page/Rutgers_University"
+    },
+    {
+        "name": "Worcester Polytechnic Institute",
+        "url": "http://dbpedia.org/page/Worcester_Polytechnic_Institute"
+    },
+    {
+        "name": "Rensselaer Polytechnic Institute",
+        "url": "http://dbpedia.org/page/Rensselaer_Polytechnic_Institute"
+    },
+    {
+        "name": "Harvard University",
+        "url": "http://dbpedia.org/page/Harvard_University"
+    },
+    {
+        "name": "New York University",
+        "url": "http://dbpedia.org/page/New_York_University"
+    },
+    {
+        "name": "University of Washington, Seattle",
+        "url": "http://dbpedia.org/page/University_of_Washington"
+    },
+    {
+        "name": "University of Wisconsin-Madison",
+        "url": "http://dbpedia.org/page/University_of_Wisconsin–Madison"
+    },
+    {
+        "name": "Purdue University",
+        "url": "http://dbpedia.org/page/Purdue_University"
+    },
+    {
+        "name": "University of Pennsylvania",
+        "url": "http://dbpedia.org/page/University_of_Pennsylvania"
+    },
+    {
+        "name": "University of Southern California",
+        "url": "http://dbpedia.org/page/University_of_Southern_California"
+    },
+    {
+        "name": "University of California, Los Angeles",
+        "url": "http://dbpedia.org/page/University_of_California,_Los_Angeles"
+    },
+    {
+        "name": "University of Oxford",
+        "url": "http://dbpedia.org/page/University_of_Oxford"
+    }
+]
