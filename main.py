@@ -14,12 +14,12 @@ import utils
 
 if __name__ == '__main__':
 
-    with open('college_list_urls.json', 'r') as f:
+    with open('city_list_urls.json', 'r') as f:
         raw = f.read()
 
     college_list = json.loads(raw.strip())
 
-    output_dir = 'json'
+    output_dir = 'json_city'
     for c in college_list:
         spider = utils.DBpediaSpider(c['url'])
         try:
